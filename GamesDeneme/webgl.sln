@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webgl", "Assembly-CSharp.csproj", "{84F3AF49-9C8E-92A5-77BD-43BA6060691C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webgl", "Assembly-CSharp-firstpass.csproj", "{FAD746C2-655A-4F7B-EA37-A044FD842BBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84F3AF49-9C8E-92A5-77BD-43BA6060691C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84F3AF49-9C8E-92A5-77BD-43BA6060691C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84F3AF49-9C8E-92A5-77BD-43BA6060691C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84F3AF49-9C8E-92A5-77BD-43BA6060691C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAD746C2-655A-4F7B-EA37-A044FD842BBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAD746C2-655A-4F7B-EA37-A044FD842BBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAD746C2-655A-4F7B-EA37-A044FD842BBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAD746C2-655A-4F7B-EA37-A044FD842BBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

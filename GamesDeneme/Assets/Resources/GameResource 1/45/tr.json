@@ -1,0 +1,9 @@
+{
+  "yonerge1": "<i class='fa fa-sort-numeric-asc'></i> Sayıları küçükten büyüğe doğru seçiniz",
+  "yonerge2": "<i class='fa fa-sort-numeric-desc'></i> Sayıları büyükten küçüğe doğru seçiniz",
+  "gameName": "Sayıları Sırala",
+  "gameInstruction": "Sayıları verilen kriter uyarınca sıralayınız.<br/><br/>Bu uygulama için sayıların büyüklük-küçüklük ilişkisinin bilinmesi gerekir.",
+  "catid": 4,
+  "maxlevel": 13,
+  "soundType": 3
+}

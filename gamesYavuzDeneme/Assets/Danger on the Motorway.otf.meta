@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 7661af9666d9d4849ba35c79c410a4f1
+timeCreated: 1523365659
+licenseType: Pro
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 32
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Danger on the Motorway
+  fontNames:
+  - Danger on the Motorway
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
